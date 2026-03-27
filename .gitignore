@@ -1,1 +1,5 @@
 .venv/
+**/Data
+**/Data_Undersampled
+**/Data_Augmented
+**/Data.zip
